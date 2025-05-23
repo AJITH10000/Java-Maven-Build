@@ -33,12 +33,6 @@ hello-java-maven/
 
 ---
 
-## How to Build with Maven
-
-```bash
-
-mvn clean package
-
 ## Jenkins Setup Summary
 
 1.Jenkins Job Type: Freestyle project
@@ -51,6 +45,13 @@ mvn clean package
 
 5.Result: Console shows BUILD SUCCESS
 
-## Author
-Ajith Kumar Reddy
+## How to Build with Maven
+
+```bash
+
+mvn clean package
+
+
+
+
 
